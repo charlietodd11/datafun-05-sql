@@ -22,6 +22,8 @@ git commit -m "add .gitignore, cmds to readme"
 git push origin main
 '''
 
+## Create db_initialize_charlietodd.py file to obtain the data for the tables in used in the SQL files inside the project folder. 
+
 ## Specification
 '''
 This project was built to the following specification:
