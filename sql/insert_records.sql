@@ -1,5 +1,5 @@
 -- Insert records into authors table
-INSERT INTO authors (author_id, first, last)
+INSERT INTO authors (author_id, first_name, last_name)
 VALUES
 ('10f88232-1ae7-4d88-a6a2-dfcebb22a597', 'William', 'Shakespeare'),
 ('c3a47e85-2a6b-4196-a7a8-8b55d8fc1f10', 'Charles', 'Dickens'),
@@ -24,4 +24,4 @@ VALUES
     ('3a1d835c-1e15-4a48-8e8c-b12239604m51', 'Moby Dick', 1851, '4dca0632-2c53-490c-99d5-4f6d41e56a1f'),
     ('c6e67918-e509-4a6b-bc3a-979f6ad805o5', 'Don Quixote', 1813, '16f3e0a1-24cb-4ed6-a50d-509f63e365o5'),
     ('be951205-6cc2-4b3d-96f1-7257b8fc8c0f', 'The Grapes of Wrath', 1939, '06cf58ab-90f1-448d-8e54-055e4393a02c'),
-    ('6b693b96-394a-4a1d-a4e2-792a47d7da42', 'The Hitchhikers Guide to the Galaxy', 1979, '6b693b96-394a-4a
+    ('6b693b96-394a-4a1d-a4e2-792a47d7da42', 'The Hitchhikers Guide to the Galaxy', 1979, '6b693b96-394a-4a');
