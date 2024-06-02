@@ -26,6 +26,8 @@ git push origin main
 
 ## Create db_operations_charlietodd.py which creates tables and inserts records from the sql folder. I also created it to create a log.txt file. A few bugs were worked out and now the .py file creates tables and populates data into them from csv files
 
+## I created a variety of sql files that interact with db_operations_charlietodd.py file to do a variety of operations within my database. 
+
 ## Specification
 '''
 This project was built to the following specification:
